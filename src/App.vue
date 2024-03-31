@@ -3,7 +3,7 @@ import { RouterView } from 'vue-router'
 import { useCommonStore } from "@/stores/common"
 
 const common = useCommonStore();
-common.changeTitle("SSAFY-CAFE");
+common.changeTitle("JeGang's Cafe");
 </script>
 
 <template>

@@ -29,9 +29,8 @@
 
 <template>
 
-    <h1>아무나 못들어가요~ </h1>
-    <h1>비밀번호 입력하셈 ㅋㅋ</h1>
-    <h2>처음 뚫으신 1분 에게 특급선물!!</h2>
+    <h1>관리자 페이지에 들어가려면 <br>
+        비밀번호를 입력하세요 </h1>
     <input v-model="password" type="password"> 
 
     <button @click="check">확인</button>

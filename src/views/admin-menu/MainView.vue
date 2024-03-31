@@ -2,7 +2,7 @@
 import { useCommonStore } from '@/stores/common';
 
 const common = useCommonStore();
-common.changeTitle("SSAFY-CAFE-관리자");
+common.changeTitle("JeGang's Cafe-admin");
 </script>
 
 <template>
