@@ -27,3 +27,17 @@ npm run dev
 ```sh
 npm run build
 ```
+
+<h1> Main Page </h1>
+
+![image](https://github.com/jeGangsong/Vue.js/assets/156664091/76126b4a-94c6-4665-ada9-239f375ae4b7)
+
+
+<h2>
+  간단한 주문 / 관리자 키오스크 시스템 구현.
+</h2>
+
+<h6>
+  관리자 페이지 입장 시 인증하는 부분까지 구현했다. Client 단에서 인증하면 비밀번호를 확인할 수 있기에 
+  Sever단에서 처리했다. 하지만 간단한 flag로 컨트롤 하기에 보안이 엄청 높진 않다. Sever단에서 Client에 인증 토큰을 보낼 방법을 더 상세히 고민해보아야함.
+</h6>
